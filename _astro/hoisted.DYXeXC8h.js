@@ -1,0 +1,1 @@
+import{S as t}from"./Footer.astro_astro_type_script_index_0_lang.1CalpDrj.js";import"./hoisted.DnFK6dK7.js";import"./_commonjsHelpers.Cpj98o6Y.js";const e=t({origin:"bottom",distance:"60px",duration:3e3,delay:600});e.reveal(".hero__text",{origin:"right"});e.reveal(".img__src",{origin:"left",delay:800});e.reveal(".text__title",{origin:"bottom",delay:800});
